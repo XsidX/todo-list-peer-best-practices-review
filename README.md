@@ -2,7 +2,7 @@
 
 # To Do list with Webpack
 
-> In this project, I build a simple HTML list of To Do tasks. This simple web page will be built using webpack and served by a webpack dev server.
+> This is a repo based on my previous todo-list project. It is intended to practice receiving and giving code reviews. In addition, check if I am following JavaScript best practices in implementing my code.
 
 ## Built With
 
@@ -11,7 +11,7 @@
 - Webpack
 - Javascript
 
-## Live Demo (if available)
+## Live Demo
 
 [Live Demo Link](https://xsidx.github.io/todo-list-with-webpack/)
 
